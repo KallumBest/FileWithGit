@@ -1,0 +1,34 @@
+Shoes 1
+Brand : nike
+Material : suede
+Color : red
+Size : 12
+Cost : 150
+
+Shoes 2
+Brand : adidas
+Material : leather
+Color : brown
+Size : 10
+Cost : 200
+
+Shoes 3
+Brand : puma
+Material : nylon
+Color : white
+Size : 13
+Cost : 250
+
+Shoes 4
+Brand : rebox
+Material : pleather
+Color : green
+Size : 10
+Cost : 120
+
+Shoes 5
+Brand : asics
+Material : plastic
+Color : black
+Size : 11
+Cost : 100
